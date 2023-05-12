@@ -1,0 +1,24 @@
+body {
+  background-color: #fff8de;
+}
+
+.title {
+  text-align: center;
+  font-family: Monaco, monospace;
+  font-weight: 500;
+}
+
+.recipe {
+  list-style: none;
+  font-family: Helvetica, sans-serif;
+}
+
+.list-img {
+  height: auto;
+  width: 500px;
+  border-radius: 25px;
+}
+
+.item-text {
+  color: black;
+}
