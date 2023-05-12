@@ -1,5 +1,6 @@
 body {
   background-color: #fff8de;
+  font-family: Helvetica, sans-serif;
 }
 
 .title {
@@ -21,4 +22,14 @@ body {
 
 .item-text {
   color: black;
+}
+
+.main-img {
+  height: auto;
+  width: 700px;
+  border-radius: 20px;
+}
+
+.subtitle-one {
+  text-align: center;
 }
